@@ -17,10 +17,17 @@ iterm2_tmux_hexa_codes.itermkeymap
 # KEY BINDINGS:
 
 SHIFT + COMMAND + ENTER        NEW WINDOW
+
 COMMAND + ENTER                MOVE WINDOW TO THE PRIMARY VIEW
+
 COMMAND + L                    RESIZE TO LEFT
+
 COMMAND + H                    RESIZE TO RIGHT
+
 COMMAND + K                    CYCLE AMONG WINDOWS TO THE RIGHT
+
 COMMAND + J                    CYCLE AMONG WINDOWS TO THE LEFT
+
 COMMAND + M                    MAXIMIZE ACTIVE WINDOW
+
 SHIFT + COMMAND + R            CLOSE ACTIVE WINDOW
