@@ -14,9 +14,9 @@ $HOME/.config/tmux/tmux.conf
 tmux
 
 # configure tmux to use the in such directory
-press "Ctrl + b"  (release keys -- nothing will happen)
-press ":"  (green bar in the bottom will turn into yellow/ orange)
-paste "source-file ~/.config/tmux/tmux.conf"   (automatically will use the new file)
+## press "Ctrl + b"  (release keys -- nothing will happen)
+## press ":"  (green bar in the bottom will turn into yellow/ orange)
+## paste "source-file ~/.config/tmux/tmux.conf"   (automatically will use the new file)
 
 <img width="1119" height="26" alt="image" src="https://github.com/user-attachments/assets/6a7abf83-a4d1-4c52-9be9-bfff7b5242c4" />
 
